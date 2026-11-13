@@ -1,0 +1,7 @@
+{
+  "skill": "code-reviewer",
+  "test_cases": [
+    {"name": "python_function", "input": "Review this Python function for issues", "assertions": ["Identifies potential bugs", "Mentions security or style"]},
+    {"name": "pr_review", "input": "Code review this pull request diff", "assertions": ["Structured feedback", "Prioritized issues"]}
+  ]
+}

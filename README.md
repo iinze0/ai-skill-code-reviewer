@@ -1,2 +1,3 @@
-# ai-skill-code-reviewer
-AI skill for thorough code review: style, bugs, security, performance, and suggestions. Works across languages.
+# AI Skill: Code Reviewer
+
+Structured code reviews for bugs, security, performance, and maintainability.

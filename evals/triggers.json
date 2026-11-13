@@ -1,0 +1,8 @@
+{
+  "skill": "code-reviewer",
+  "test_cases": [
+    {"input": "review this code", "should_trigger": true},
+    {"input": "code review the PR", "should_trigger": true},
+    {"input": "summarize this article", "should_trigger": false}
+  ]
+}
